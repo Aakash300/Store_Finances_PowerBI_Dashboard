@@ -133,22 +133,9 @@ To design and develop an interactive Power BI dashboard that:
 
 ---
 
-## 👔 Interview Talking Points
-
-If asked in an interview:
-
-- Explain how you designed the star schema
-- Discuss why specific visuals were chosen
-- Explain how DAX measures were optimized
-- Talk about business decisions this dashboard enables
-- Share insights discovered from the data
-
----
-
 ## 📌 Conclusion
 
 This dashboard transforms raw transactional sales data into actionable business intelligence, enabling retail decision-makers to improve profitability, optimize store performance, and strategically allocate resources.
 
 ---
 
-📎 *Developed as part of a Business Intelligence & Data Analytics portfolio project.*# Store_Finances_PowerBI_Dashboard
