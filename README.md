@@ -1,6 +1,6 @@
 ## 📊 Dashboard Preview
 
-![Store Finance Power BI Dashboard](Store Finance Power BI Dashboard.JPG)
+![Store Finances Power BI Dashboard](Finance_Dashboard.png)
 
 # 📊 Store Finance Analytics Dashboard (Power BI)
 
